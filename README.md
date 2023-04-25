@@ -4,7 +4,7 @@
 </br>
 התנועה נעשית באמצעות חץ ימינה ושמאלה.
 </br>
-קישור למשחק : https://daniel-zaken.itch.io/icy-tower
+[קישור למשחק](https://daniel-zaken.itch.io/icy-tower)
 </br>
 </br>
 פתרון הבעיה של קפיצת השחקן ממתחת לשלב ומעבר אפשרי רק ממתחת ולא מלמטה נפתר באמצעות בשימוש ב Platform Effector 2D.
